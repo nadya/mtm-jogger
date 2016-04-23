@@ -1,0 +1,26 @@
+{
+  "name": "mtm-jogger",
+  "version": "0.0.1",
+  "description": "Sends keyboard jog commands to a pygestalt virtual machine, for example to control a motor.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nadya/mtm-jogger.git"
+  },
+  "main": "jogger.js",
+  "dependencies": {
+  },
+  "keywords": [
+    "digital fabrication",
+    "pygestalt",
+    "mtm",
+    "cba"
+  ],
+  "author": "Nadya Peek",
+  "license": "CBA",
+  "bugs": {
+    "url": "https://github.com/nadya/mtm-jogger/issues"
+  },
+  "homepage": "https://github.com/nadya/mtm-jogger",
+  "devDependencies": {
+  }
+}
